@@ -1,4 +1,5 @@
-[![Join the chat at https://gitter.im/copy/v86](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/copy/v86)
+ [Core v10.0 updates the linux kernel version to 4.19.10 ](http://www.tinycorelinux.net/):ballot_box_with_check:
+ 
 
 
 Demos
