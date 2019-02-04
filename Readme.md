@@ -3,7 +3,7 @@ Branch: tinycore :construction:
 
  [Core v10.0 updates the linux kernel version to 4.19.10 ](http://www.tinycorelinux.net/):ballot_box_with_check:
  
-Releaese 0.1:
+Release 0.1:
 --
 :wrench:
 https://github.com/nilqed/v86/releases
